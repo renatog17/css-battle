@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0;
+}
+#one{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    box-shadow:0 0 0 1in #b5e0ba
+}
